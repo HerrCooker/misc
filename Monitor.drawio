@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T15:01:24.571Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="O-CzWP9NjPV1RnCZlhpX" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T15:02:24.506Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Y6H4OuH1HhYLckrkdPQb" version="21.6.6" type="github">
   <diagram name="Seite-1" id="ELZUeX0YocxNJb1q_E6c">
     <mxGraphModel dx="794" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GAWwl-giYYkklGFR_YXa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="GAWwl-giYYkklGFR_YXa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="310" y="130" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FfZUA_TqmdPB6vUnj2kE-2" value="EnV5Controller.java" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="FfZUA_TqmdPB6vUnj2kE-7" value="TwinData.java" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="210" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfZUA_TqmdPB6vUnj2kE-8" value="stopIfTwinInactive()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FfZUA_TqmdPB6vUnj2kE-7" vertex="1">
+        <mxCell id="FfZUA_TqmdPB6vUnj2kE-8" value="stopIfTwinInactive()" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="FfZUA_TqmdPB6vUnj2kE-7" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FfZUA_TqmdPB6vUnj2kE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FfZUA_TqmdPB6vUnj2kE-4" target="FfZUA_TqmdPB6vUnj2kE-8" edge="1">
