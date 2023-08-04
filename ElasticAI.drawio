@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T11:41:31.190Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="kidSc51MK-jwtj-wwftR" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-04T11:42:17.518Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="03uFdJWvcbB_m8xOpsqG" version="21.6.6" type="github" pages="2">
   <diagram name="Main" id="82ap8rPAqJK_SnunAFGu">
     <mxGraphModel dx="2074" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
         <mxCell id="63rLZzDj2ByE98B5s76A-42" value="&lt;div&gt;changeTwinName (ID, newName) : void&lt;/div&gt;&lt;div&gt;getTwinData(ID) : TwinData&lt;/div&gt;&lt;div&gt;addOrUpdateTwin(ID, measurements, endpoint, requesterID) : void&lt;/div&gt;&lt;div&gt;getActiveTwins() : List&amp;lt;TwinData&amp;gt;&lt;/div&gt;&lt;div&gt;getTwins() : List&amp;lt;TwinData&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="63rLZzDj2ByE98B5s76A-39">
           <mxGeometry y="78" width="380" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="Subscribe and Unsubscribe" link="data:page/id,ra1fc3bi3azJyeik-TD5" linkTarget="_blank" id="63rLZzDj2ByE98B5s76A-47">
+        <UserObject label="&lt;font color=&quot;#11ff00&quot;&gt;Subscribe and Unsubscribe&lt;/font&gt;" link="data:page/id,ra1fc3bi3azJyeik-TD5" linkTarget="_blank" id="63rLZzDj2ByE98B5s76A-47">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
             <mxGeometry x="460" y="270" width="120" height="30" as="geometry" />
           </mxCell>
